@@ -1,0 +1,2 @@
+with roblox 
+"/** MySQL database password */" ext:txt | ext:cfg | ext:env | ext:ini
